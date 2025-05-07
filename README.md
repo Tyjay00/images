@@ -1,1 +1,1 @@
-Section 2 Working With Images
+## Section 2 Working With Images
